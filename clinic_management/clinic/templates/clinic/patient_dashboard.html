@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Личный кабинет пациента</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'clinic/style.css' %}">
+</head>
+<body>
+    <h1>Добро пожаловать, {{ user.username }}!</h1>
+    <a href="{% url 'logout' %}">Выход</a>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Главная страница</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'clinic/style.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>Добро пожаловать в систему управления медицинской клиникой!</h1>
+        <a href="{% url 'login' %}">Вход в аккаунт</a>
+    </div>
+</body>
+</html>

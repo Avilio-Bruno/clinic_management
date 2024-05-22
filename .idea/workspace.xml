@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="840743d4-f6a0-4a01-9176-2a2cea1be710" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/clinic_management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/migrations/0002_rename_is_admin_user_is_doctor_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/migrations/0003_remove_doctor_id_remove_patient_date_of_birth_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/static/clinic/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/templates/clinic/admin_dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/templates/clinic/doctor_dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/templates/clinic/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/templates/clinic/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/templates/clinic/patient_dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/templates/clinic/register_doctor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/templates/clinic/register_patient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic_management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic_management/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic_management/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic_management/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/clinic_management/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Avilio-Bruno"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Avilio-Bruno/clinic_management.git",
+    "accountId": "862c88f0-e301-45a0-9a06-6e2b8c35f701"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2gneqz9PXyQKdyXdtFXaGbY8Lhx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vladg/clinic_management/clinic_management/clinic_management&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vladg\clinic_management\clinic_management\clinic_management" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vladg\clinic_management\clinic_management\clinic" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="clinic_management" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="840743d4-f6a0-4a01-9176-2a2cea1be710" name="Changes" comment="" />
+      <created>1716337963364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716337963364</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
